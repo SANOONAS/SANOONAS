@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sanoos Ahamed</h1>
 <h3 align="center">A passionate Android And Full Stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanoonas&label=Profile%20views&color=0e75b6&style=flat" alt="sanoonas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanoonas" alt="sanoonas" /></a> </p>
 
 - 💬 Ask me about **android, java**
 
