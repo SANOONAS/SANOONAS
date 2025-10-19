@@ -42,8 +42,8 @@ A passionate developer crafting amazing web experiences with modern technologies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanoos&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanoos&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANOONAS&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANOONAS&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
 </div>
 
@@ -52,7 +52,7 @@ A passionate developer crafting amazing web experiences with modern technologies
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/sanoos)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/SANOONAS)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
 </div>
