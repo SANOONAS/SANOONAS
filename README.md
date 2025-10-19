@@ -42,8 +42,8 @@ A passionate developer crafting amazing web experiences with modern technologies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANOONAS&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANOONAS&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANOONAS&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANOONAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
